@@ -7,3 +7,10 @@ Création une classe service dont une méthode prendre en paramètre une interfa
 Création une méthode par défaut pour montrer qu’après java 8 on peut ajouter du code a une interface
 Création une autre méthode défaut pour montrer qu’elle n’est pas obligée d’être redéfinie
 Création une méthode statique dans une interface
+Création d’une interface fonctionnelle ( Exemples :
+DoubleSupplier
+
+DoubleToIntFunction )
+
+
+
